@@ -326,7 +326,8 @@ ul li {
   min-height: 100vh;
   position: relative;
   text-align: center;
-  background: url(../images/backgrounds/1.png) repeat-x center center/cover;
+  background: url(../images/backgrounds/1.png) repeat-x center center/cover ;
+  background-color: #7d1b43;
   background-attachment: fixed;
   display: table;
 }
