@@ -5,8 +5,6 @@
   -moz-transition: 0.5s all ease; /* Firefox */
   -o-transition: 0.5s all ease; /* Opera */
 
-  box-shadow: 5px 5px 25px #000;
-
   margin-bottom: -12em;
   margin-top: 4em;
 }
